@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="shader_color_1" format="color"/>
+    <attr name="shader_color_2" format="color"/>
+    <attr name="amplitude" format="float"/>
+    <attr name="amplitude_speed" format="float"/>
+    <attr name="max_alpha" format="integer"/>
+
+    <declare-styleable name="AXWaveView">
+        <attr name="shader_color_1"/>
+        <attr name="shader_color_2"/>
+        <attr name="amplitude"/>
+        <attr name="amplitude_speed"/>
+        <attr name="max_alpha"/>
+
+        <attr name="shader_remove_color_1" format="color"/>
+        <attr name="shader_remove_color_2" format="color"/>
+        <attr name="remove_color" format="color"/>
+        <attr name="remove_size" format="dimension"/>
+        <attr name="remove_wave" format="boolean"/>
+        <attr name="remove_angle" format="float"/>
+
+        <attr name="pinned_progress" format="float"/>
+        <attr name="speed_scale" format="float"/>
+        <attr name="circle" format="boolean"/>
+        <attr name="circle_radius" format="dimension"/>
+
+        <attr name="first_min_radius" format="dimension"/>
+        <attr name="first_max_radius" format="dimension"/>
+        <attr name="second_min_radius" format="dimension"/>
+        <attr name="second_max_radius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="AXLineWaveView">
+        <attr name="shader_color_1"/>
+        <attr name="shader_color_2"/>
+        <attr name="amplitude"/>
+        <attr name="amplitude_speed"/>
+        <attr name="max_alpha"/>
+
+        <attr name="main_wave" format="boolean"/>
+        <attr name="main_wave_height" format="dimension"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,7 @@
+siteUrl = https://github.com/Aghajari/AXWaveAnimation
+gitUrl = https://github.com/Aghajari/AXWaveAnimation.git
+version = 1.0.0
+groupId = com.aghajari.waveanimation
+licenses = ['Apache-2.0']
+id = AXWaveAnimation
+name = AXWaveAnimation

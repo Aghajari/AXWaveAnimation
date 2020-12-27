@@ -1,0 +1,3 @@
+include ':AXWaveAnimation'
+include ':app'
+rootProject.name = "AXWaveAnimation-App"
