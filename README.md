@@ -10,12 +10,17 @@ AXWaveAnimation is available in the JCenter, so you just need to add it as a dep
 
 Gradle
 ```gradle
-
+implementation 'com.aghajari.waveanimation:AXWaveAnimation:1.0.0'
 ```
 
 Maven
 ```xml
-
+<dependency>
+  <groupId>com.aghajari.waveanimation</groupId>
+  <artifactId>AXWaveAnimation</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
 ```
 
 ## Usage
