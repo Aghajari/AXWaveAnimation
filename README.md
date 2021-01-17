@@ -127,6 +127,7 @@ Such as Colors, Animation's Speed for each wave drawable,Max/Min Radius for each
 
 ## Author 
 - **Amir Hossein Aghajari**
+- [Telegram/BlobDrawable](https://github.com/DrKLO/Telegram/blob/master/TMessagesProj/src/main/java/org/telegram/ui/Components/BlobDrawable.java)
 
 License
 =======
